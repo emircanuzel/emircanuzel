@@ -1,6 +1,17 @@
 ### Hi there 👋
 ### Welcome to My Profile 😊
 
+# I'm a **Senior iOS Developer** passionate about building high-quality, user-friendly iOS applications. Thanks for visiting my GitHub profile!
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: `emircanuzel95@gmail.com`
+- 🔗 LinkedIn: [Emircan UZEL]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/emircanuzel/))
+
+---
+
 <!--
 **emircanuzel/emircanuzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
