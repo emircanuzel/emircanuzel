@@ -1,14 +1,14 @@
-### Hi there 👋
-### Welcome to My Profile 😊
+# Hi there 👋
+# Welcome to My Profile 😊
 
-# I'm a **Senior iOS Developer** passionate about building high-quality, user-friendly iOS applications. Thanks for visiting my GitHub profile!
+### I'm a **Senior iOS Developer** passionate about building high-quality, user-friendly iOS applications. Thanks for visiting my GitHub profile!
 
 ---
 
 ## 📫 Contact
 
 - ✉️ Email: `emircanuzel95@gmail.com`
-- 🔗 LinkedIn: [Emircan UZEL]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/emircanuzel/))
+- 🔗 LinkedIn: [[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/emircanuzel/)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/emircanuzel/))
 
 ---
 
