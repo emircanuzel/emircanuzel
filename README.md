@@ -8,7 +8,7 @@
 ## 📫 Contact
 
 - ✉️ Email: `emircanuzel95@gmail.com`
-- 🔗 LinkedIn: [[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/emircanuzel/)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/emircanuzel/))
+- 🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/emircanuzel/)
 
 ---
 
